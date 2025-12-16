@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class pairs_question {
     public static void parintpairs(int arr[]){

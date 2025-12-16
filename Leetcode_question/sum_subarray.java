@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 // public class sum_subarray {
 //     public static void sum(int arr[]){

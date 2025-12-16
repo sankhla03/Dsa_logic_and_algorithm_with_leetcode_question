@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class rainwater_trapped {
     public static int raintrappedwater(int hight[]){

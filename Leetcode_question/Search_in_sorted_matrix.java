@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class Search_in_sorted_matrix {
     public static boolean search_matrix(int metrics[][], int target){

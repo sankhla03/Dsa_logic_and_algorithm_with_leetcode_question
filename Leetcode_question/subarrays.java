@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class subarrays {
     public static void sub(int arr[]){

@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class diagonalsum {
     public static int sum(int arr[][]){

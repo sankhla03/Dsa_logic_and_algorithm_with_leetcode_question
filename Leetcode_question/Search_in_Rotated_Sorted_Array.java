@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class Search_in_Rotated_Sorted_Array {
     public static int  search(int arr[], int target){

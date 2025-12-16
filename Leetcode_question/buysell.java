@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class buysell {
     public static int  maxProfit(int price[]){

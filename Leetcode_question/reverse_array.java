@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class reverse_array {
     public static void reverse(int arr[]){

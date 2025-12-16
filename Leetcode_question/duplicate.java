@@ -1,4 +1,4 @@
-package important_question;
+package Leetcode_question;
 
 public class duplicate {
     public static boolean checkDuplicate(int arr[]){

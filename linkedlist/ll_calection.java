@@ -1,4 +1,5 @@
 package linkedlist;
+
 import java.util.LinkedList;
 public class ll_calection {
 
